@@ -6,8 +6,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davide122" alt="davide122" /></a> </p>
 
-- 🌱 I’m currently learning **Java - react native**
-
 - 👨‍💻 All of my projects are available at [https://github.com/davide122](https://github.com/davide122)
 
 - 📫 How to reach me **Davidemarchica277@gmail.com**
